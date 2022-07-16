@@ -19,7 +19,7 @@ class AppWidget extends StatelessWidget {
           backgroundColor: Color.fromARGB(255, 25, 42, 56),
         ),
       ),
-      title: 'App Olá Mundo',
+      title: 'App ToDo',
       home: const HomeView(),
     );
   }
